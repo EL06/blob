@@ -1,0 +1,14 @@
+purple purple chartreuse2 pink1
+gray green  aquamarine yellow
+orange orange red red
+magenta4 yellow blue blue
+purple blue pink1 pink
+aquamarine chartreuse2 gray green
+pink1 gray pink purple
+aquamarine red gray magenta4 
+orange green pink1 blue
+yellow aquamarine yellow orange
+magenta4 magenta4 pink chartreuse2
+green red chartreuse2 pink
+0
+0

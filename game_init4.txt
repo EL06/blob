@@ -1,0 +1,11 @@
+orange  orange  orange
+blue yellow red
+pink pink pink
+red pink red aquamarine
+blue red aquamarine aquamarine
+orange yellow yellow yellow 
+aquamarine purple blue blue
+green green green green
+white white white white 
+purple purple purple 
+0

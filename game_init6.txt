@@ -1,0 +1,7 @@
+chartreuse2 orange orange red
+chartreuse2 azure azure orange
+red chartreuse2 magenta4 red
+azure orange magenta4 magenta4
+red chartreuse2 azure magenta4
+0
+0

@@ -1,0 +1,7 @@
+deeppink2 azure deeppink2 red red azure
+red chartreuse2 deeppink2 deeppink2 deeppink2 azure
+orange orange orange chartreuse2 red orange
+deeppink2 azure red azure azure orange
+chartreuse2 chartreuse2 orange red chartreuse2 chartreuse2
+0
+0
